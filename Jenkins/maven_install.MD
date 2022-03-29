@@ -26,7 +26,6 @@ Maven is a code build tool which used to convert your code to an artifact. this 
    ```
 #### Checkpoint 
 1. logoff and login to check maven version
-  
     ```sh
     mvn --version
     ```

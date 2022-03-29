@@ -1,4 +1,4 @@
-# Installing Docker on Amazon Linux server
+## Installing Docker on Amazon Linux server
 
 ### Pre-requisites
 1. Amazon Linux EC2 Instance
